@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&timeAuto&text=@jngmnj&fontColor=2a2f49&desc=디자인%20마크업%20프론트엔드%20다%20되는%20개발자%2%(풀스택%20지망생)&descAlignY=77&descSize=-4)
 
-<div style="text-align:right;">
+<div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjngmnj&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-<div style="float: left; width: 50%;">
 Hi, I'm J(u)ngm(i)n J(i). 
 
 I'm a frontend developer with over 3 years of experience in design, markup.
@@ -16,13 +15,7 @@ I'm a frontend developer with over 3 years of experience in design, markup.
     I utilize my expertise in UI/UX design to create websites that optimize user experience. My passion extends beyond design to encompass markup and frontend development, and I constantly strive to learn and grow in these areas. This well-rounded skillset allows me to collaborate effectively with other developers, valuing teamwork as a key factor in achieving the best possible results.
 </details>
 
-</div>
 
-<div style="float: right; width: 48%;">
-
-![jngmnj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngmnj&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
-
-</div>
 
 
 <div style="clear:both;"></div>
@@ -66,6 +59,9 @@ I'm a frontend developer with over 3 years of experience in design, markup.
 ![Static Badge](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?logo=adobelightroom&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-black?logo=notion)
+
+
+<!-- ![jngmnj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngmnj&include_all_commits=true&show_icons=true&theme=radical&count_private=true) -->
 
 <!--
 **jngmnj/jngmnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
